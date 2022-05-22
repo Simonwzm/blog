@@ -1,7 +1,7 @@
 ---
 title: Django 的鉴权操作
 date: 2022-05-22 20:05:56
-tags: Djang
+tags: Django
 ---
 
 (往期补档)
