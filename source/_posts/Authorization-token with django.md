@@ -15,7 +15,7 @@ AAA = Authentication + Authorization + Audit
 
 Audit: 记录用户操作
 
-TODO: request -> Authorization token Authetication -> is_authenticated -> controllers
+TODO: request -> Authorization token Authetication -> is_authenticated? -> controllers
 
 
 ### Authorize with django
@@ -53,8 +53,7 @@ class Token(models.Model):
 
 #### Use a controller to manage login
 
-如果一个 request 直接被送到 controller，我们可以这么做 controller
-
+我们需要设计一个 controller 来配合 token 进行登录
 
 ```python
 #app -> veiws.py

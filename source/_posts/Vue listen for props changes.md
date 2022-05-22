@@ -1,5 +1,5 @@
 ---
-title: Vue router 语法学习
+title: Vue watch 语法
 date: 2022-05-20 21:09:56
 tags: Vue
 ---
