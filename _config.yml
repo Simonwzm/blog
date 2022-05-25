@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Simon Wang 的博客
+subtitle: 'Live a life you will remember!'
+description: '一名普通的大一学生。欢迎来到我的博客，这里将是记录我的成长的地方。'
 keywords:
-author: John Doe
-language: en
+author: Simon Wang
+language: zh-CN
 timezone: ''
 
 # URL
