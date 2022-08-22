@@ -3,7 +3,7 @@ title: Docker 学习
 date: 2022-08-22 16:20
 tags: 
 decsription:
-cover: https://img.xjh.me/random_img.php?return=302&type=bg&ctype=acg
+cover: https://s2.loli.net/2022/08/23/GoYaeEtwx2y6WKq.jpg
 ---
 
 # Docker 学习
