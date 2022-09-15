@@ -4,7 +4,7 @@ title: 使用 vscode remote 插件的一些思考
 date: 2022-09-15 09:36
 tags:
 decsription:
-cover: <https://s2.loli.net/2022/09/15/W5bztOeFpBs4noS.jpg>
+cover: https://s2.loli.net/2022/09/15/W5bztOeFpBs4noS.jpg
 ---
 
 学校的电工导课程需要使用 docker 环境进行开发。老师推荐使用 vscode+remote-container 的方式进行。由于不是非常明白其中的机理，所以尝试研究一下官网给出的教程。
