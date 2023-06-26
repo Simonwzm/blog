@@ -14,33 +14,36 @@ class MyHandler(FileSystemEventHandler):
 
     def on_modified(self, event):
         if not event.is_directory:
+            print(f'Modified: {event.src_path}')
             shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
             self.deploy_blog()
 
     def on_created(self, event):
         if not event.is_directory:
+            print(f'Created: {event.src_path}')
             shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
             self.deploy_blog()
 
-def deploy_blog(self):
-    blog_dir = "D:\\Simon\\Dev\\blog"
-    os.chdir(blog_dir)
 
-    # Deploy with hexo
-    hexo_command = 'hexo deploy -g'
-    process = subprocess.Popen(hexo_command, shell=True)
-    process.wait()
+    def deploy_blog(self):
+        blog_dir = "D:\\Simon\\Dev\\blog"
+        os.chdir(blog_dir)
 
-    # Execute git commands
-    git_commands = [
-        'git add -A',
-        'git commit -m "update posts"',
-        'git push origin main'
-    ]
-
-    for cmd in git_commands:
-        process = subprocess.Popen(cmd, shell=True)
+        # Deploy with hexo
+        hexo_command = 'hexo deploy -g'
+        process = subprocess.Popen(hexo_command, shell=True)
         process.wait()
+
+        # Execute git commands
+        git_commands = [
+            'git add -A',
+            'git commit -m "update posts"',
+            'git push origin main'
+        ]
+
+        for cmd in git_commands:
+            process = subprocess.Popen(cmd, shell=True)
+            process.wait()
 
 if __name__ == "__main__":
     src_path = r"D:\Simon\Program_Files\dropbox_sync\Dropbox\Sync\ObNotes\03 Knowledge\blog_posts"
