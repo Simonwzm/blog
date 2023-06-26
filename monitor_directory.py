@@ -7,6 +7,7 @@ import os
 import subprocess
 import threading
 
+
 class MyHandler(FileSystemEventHandler):
     def __init__(self, src_dir, dst_dir):
         self.src_dir = src_dir
@@ -14,16 +15,17 @@ class MyHandler(FileSystemEventHandler):
 
     def on_modified(self, event):
         if not event.is_directory:
-            print(f'Modified: {event.src_path}')
-            shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
-            self.deploy_blog()
+            if not os.path.basename(event.src_path).startswith('.'):
+                print(f'Modified: {event.src_path}')
+                shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
+                self.deploy_blog()
 
     def on_created(self, event):
         if not event.is_directory:
-            print(f'Created: {event.src_path}')
-            shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
-            self.deploy_blog()
-
+            if not os.path.basename(event.src_path).startswith('.'):
+                print(f'Created: {event.src_path}')
+                shutil.copy2(event.src_path, os.path.join(self.dst_dir, os.path.basename(event.src_path)))
+                self.deploy_blog()
 
 
     def deploy_blog(self):

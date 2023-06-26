@@ -70,5 +70,10 @@ soup的语法在搜索上与tag是一样的。
 
 > 参考链接：https://www.crummy.com/software/BeautifulSoup/bs4/doc/index.zh.html#id51
 
-
 #python #Web 
+
+asjdclkjansldjknc
+
+asxjnkkjn
+
+sdckjnskdjncskjdc
