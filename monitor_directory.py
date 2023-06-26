@@ -25,6 +25,7 @@ class MyHandler(FileSystemEventHandler):
             self.deploy_blog()
 
 
+
     def deploy_blog(self):
         blog_dir = "D:\\Simon\\Dev\\blog"
         os.chdir(blog_dir)
