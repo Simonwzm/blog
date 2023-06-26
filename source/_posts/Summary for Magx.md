@@ -67,19 +67,3 @@ Overall speaking, Magx features its accuracy and wide range adaptivity in magnet
 
 Magx adopted a magnet filed detecting method which tracks the spatial positions of passive magnets. In particular, the team conducted a detailed comparison between Magx and existing works in two aspects, the first compares the hand tracking effects of different existing tracking methods including the magnetic field detection we adopted, and the second compares the tracking effect of different methods of detecting magnets in magnetic field detection.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
