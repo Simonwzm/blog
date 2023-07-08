@@ -105,7 +105,7 @@ About how batch normalization function in FC layers. We just perform BN along ea
 
   **At training time, we do running sum over all $\mu$ and $\sigma$ for each train.** The difference is that in test time, the batch dimension vanishes, and if we had done something that relies on the batch dimension in training time, it creates a difference between them. In BN we just do a similar way without using batch dimension in test time,  which is the starting sentence of this block.
 
-## BN over conv layers
+### BN over conv layers
 
 ![image-20230708151308659](https://s2.loli.net/2023/07/08/uHxw48DIPXF97bV.png)
 
