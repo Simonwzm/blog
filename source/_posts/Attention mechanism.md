@@ -146,7 +146,7 @@ We designed a new block that encapsulate Self-Attention model and use it do the 
 
 Hyperparameters: number of transformer blocks, output dimension of each block: $N_Q$ (also named in `query depth`, normally the same for each transformers) and heads(if we use the multi-head self-attention model)
 
-The final structure is simply multiply cascaded transformers, as shown below:
+The final structure is simply multiple cascaded transformers, as shown below:
 
 ![image-20230714150303011](https://s2.loli.net/2023/07/14/XODv1KbIV3ecHpC.png)
 
