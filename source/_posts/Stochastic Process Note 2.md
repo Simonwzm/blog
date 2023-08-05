@@ -1,5 +1,5 @@
 ---
-title: Stochastic Process Note 1
+title: Stochastic Process Note 2
 date: 2023-08-05 12:42
 tags: 
 decsription:
