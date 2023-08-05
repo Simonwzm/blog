@@ -7,4 +7,4 @@ cover: https://api.r10086.com/%E6%A8%B1%E9%81%93%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%8
 ---
 
 
-{% pdf /pdf/SP_Lec1.pdf %}
+{% pdf /pdf/SP_Lec2.pdf %}
