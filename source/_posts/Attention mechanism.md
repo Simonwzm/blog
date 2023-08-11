@@ -2,7 +2,7 @@
 title: Attention Learning
 date: 2023-07-14 15:05
 tags: Deep Learning
-decsription:
+description:
 cover: https://s2.loli.net/2023/08/05/BO5pmMxrHod8wZn.png
 ---
 
