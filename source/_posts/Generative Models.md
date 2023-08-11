@@ -1,7 +1,7 @@
 ---
 title: Generative Models
 date: 2023-07-17 19:43
-tags: 
+tags: Deep Learning
 decsription:
 cover: https://s2.loli.net/2023/08/05/m9ApC8fj1S6Fe3y.jpg
 ---
