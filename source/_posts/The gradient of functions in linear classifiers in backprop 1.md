@@ -1,8 +1,8 @@
 ---
-title: The gradient of functions in linear classifiers in backprop 1
+title: The gradient of functions in linear classifiers in backprop
 date: 2023-07-08 11:54
 tags: Deep Learning
-decsription:
+description:
 cover: https://s2.loli.net/2023/08/05/ehd9IH8LklwNvJE.png
 ---
 
