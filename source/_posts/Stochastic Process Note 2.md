@@ -1,7 +1,7 @@
 ---
 title: Stochastic Process Note 2
 date: 2023-08-05 12:42
-tags: 
+tags: [随机过程, Stochastic Process]
 decsription:
 cover: https://s2.loli.net/2023/08/05/hkJO1yrYzgnfj8a.png
 ---
