@@ -2,7 +2,7 @@
 title: A Brief to LangChain
 date: 2023-07-30 22:31
 tags: Deep Learning
-decsription:
+description:
 cover: https://s2.loli.net/2023/08/05/tiT95bDpRGBXvxH.png
 ---
 
