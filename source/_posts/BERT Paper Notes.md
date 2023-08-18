@@ -6,8 +6,6 @@ description: Click in for more details
 cover: https://api.r10086.com/%E6%A8%B1%E9%81%93%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%89%87api%E6%8E%A5%E5%8F%A3.php?%E5%9B%BE%E7%89%87%E7%B3%BB%E5%88%97=%E5%8A%A8%E6%BC%AB%E7%BB%BC%E5%90%882
 ---
 
-# BERT Paper Notes
-
 
 
 ## Preface
@@ -22,7 +20,7 @@ Some tips are written in the quotes. We mainly revolve around the above topics t
 
 > **Token-based and Sentence-based Tasks**
 >
-> In brief, they differ in the granularity of the input and output, token-based tasks being finer. For example, the embedded vector in token-based model usually prepare a vector for each token, while sentence-based tasks usually prepare view a sentence as a unit.
+> In brief, they differ in the granularity of the input and output, token-based tasks being finer. For example, the embedded vector in token-based model usually prepare a vector for each token, while sentence-based tasks usually prepare view a sentence as a unit. BERT is a token-based model.
 >
 > GPT link: https://chat.openai.com/share/94931112-43c1-4ac8-96f4-0b70db30d187
 
