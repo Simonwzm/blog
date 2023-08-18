@@ -12,7 +12,7 @@ cover: https://api.r10086.com/%E6%A8%B1%E9%81%93%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%8
 
 ## Preface
 
-In short, BERT uses the Transformer and a bi-directional training method, use unlabeled text to pre-train a model that generate useful representations of the input text tokens. These representations can be used to drive various tasks after only fine-tuning the additional output layer for different purposes.
+<font color=red>In short, BERT uses the Transformer and a bi-directional training method, use unlabeled text to pre-train a model that generate useful representations of the input text tokens. These representations can be used to drive various tasks after only fine-tuning the additional output layer for different purposes.</font>
 
 In model design, BERT inherit most transformer properties, but discard the separated decoder. Therefore the input method should be modified as well.
 
