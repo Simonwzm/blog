@@ -10,7 +10,7 @@ cover: https://api.r10086.com/%E6%A8%B1%E9%81%93%E9%9A%8F%E6%9C%BA%E5%9B%BE%E7%8
 
 
 
-## Abstract and Conclusion
+## Preface
 
 In short, BERT uses the Transformer and a bi-directional training method, use unlabeled text to pre-train a model that generate useful representations of the input text tokens. These representations can be used to drive various tasks after only fine-tuning the additional output layer for different purposes.
 
@@ -18,7 +18,7 @@ In model design, BERT inherit most transformer properties, but discard the separ
 
 In pre-training technique, two main approach comprises the meaning of "Bidirectional". The masked language model and the "next sentence prediction" both contributes to the pre-train of "text-pair representations".
 
-We revolve around the above
+Some tips are written in the quotes. We mainly revolve around the above topics to begin the introduction of BERT.
 
 > **Token-based and Sentence-based Tasks**
 >
@@ -40,7 +40,7 @@ We revolve around the above
 
 BERT use the exactly same architecture as the Transformer. The following illustration is a Review of the model. 
 
-![image-20230818031727901](https://s2.loli.net/2023/08/18/H49AewfM2JxyY6I.png)
+<img src="https://s2.loli.net/2023/08/18/H49AewfM2JxyY6I.png" alt="image-20230818031727901" style="zoom:50%;" />
 
 Here is the [detailed text version explanation](https://chat.openai.com/share/2f1c51aa-ea50-4e15-bd3a-8883026897ea).
 
