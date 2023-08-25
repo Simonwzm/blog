@@ -65,7 +65,7 @@ Simply put, the a Markov Chain uses a transition matrix at time t, $P_{t,ij} = P
 
 ### Formalization of RL
 
-**MDP is used to formalize the Environment in RL. **
+**MDP is used to formalize the Environment in RL.**
 
 **And the agent's behavior is characterized by a term called policy $\pi$, which is a distribution of actions conditioned on states**
 
@@ -125,7 +125,6 @@ This shows the the optimal Q function has recurrence property. A recurrent versi
 
 Also the bad part is stated above. It is computationally impossible.
 
-***
 
 ## Training RL
 
