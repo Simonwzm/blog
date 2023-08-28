@@ -156,7 +156,7 @@ Then we get the output of our model, the $Q(s, a ; \theta)$. We then compare thi
 
 ### Policy Gradient
 
-After all, the $Q^ { * } $ function is not the policy itself. We propose the idea of Policy Gradient model that **trains a network $\pi_{\theta} ( a | s ) $ that takes state as input, directly gives distribution over which action to take in that state.
+After all, the $Q^ { * } $ function is not the policy itself. We propose the idea of Policy Gradient model that **trains a network $\pi_{\theta} ( a | s ) $ that takes state as input, directly gives distribution over which action to take in that state.**
 
 The target function that we want to maximize is as following.
 
