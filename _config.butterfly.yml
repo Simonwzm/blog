@@ -860,7 +860,7 @@ CDN:
   instantsearch_v4:
 
   # math
-  mathjax:
+  mathjax: //cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML
   katex:
   katex_copytex:
   katex_copytex_css:
