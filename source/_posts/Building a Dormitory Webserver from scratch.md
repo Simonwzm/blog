@@ -3,7 +3,7 @@ title: Building a Dormitory Webserver from scratch
 date: 2023-07-29 14:05
 tags: 
 description:
-cover: https://s2.loli.net/2023/08/05/ZINRSvbmH1KaszJ.jpg
+cover: "https://s2.loli.net/2023/08/05/ZINRSvbmH1KaszJ.jpg"
 ---
 
 
