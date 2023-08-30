@@ -3,7 +3,7 @@ title: BeautifulSoup 尝试
 date: 2023-06-26 21:06
 tags: 
 description:
-cover: "https://s2.loli.net/2023/08/05/kSVNtwOp5lzMJZe.jpg"
+cover: https://s2.loli.net/2023/08/05/kSVNtwOp5lzMJZe.jpg
 ---
 
 

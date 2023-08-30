@@ -3,7 +3,7 @@ title: 记花了一天时间和￥150获得一个google voice
 date: 2022-08-07 11:59
 tags: 
 decsription:
-cover: https://s2.loli.net/2022/08/07/LKI8qMUpcaGWud1.png
+cover: "https://s2.loli.net/2022/08/07/LKI8qMUpcaGWud1.png"
 ---
 
 # 记花了一天时间和￥150获得一个google voice
