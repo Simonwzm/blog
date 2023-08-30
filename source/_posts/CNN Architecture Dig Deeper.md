@@ -3,7 +3,7 @@ title: CNN Architecture Dig Deeper
 date: 2023-07-08 16:09
 tags: Deep Learning
 description:
-cover: "https://s2.loli.net/2023/08/05/5KBPIbsf6vxwmJZ.png"
+cover: https://s2.loli.net/2023/08/05/5KBPIbsf6vxwmJZ.png
 ---
 
 # CNN Architecture Dig Deeper
