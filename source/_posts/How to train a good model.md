@@ -3,7 +3,7 @@ title: How to train a good model 1
 date: 2023-07-11 16:50
 tags: Deep Learning
 description:
-cover: https://s2.loli.net/2023/08/05/HXSomfvedPFtjCa.png
+cover: "https://s2.loli.net/2023/08/05/HXSomfvedPFtjCa.png"
 ---
 
 
