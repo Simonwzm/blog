@@ -3,7 +3,7 @@ title: RNN Learning
 date: 2023-07-13 19:59
 tags: Deep Learning
 description:
-cover: "https://s2.loli.net/2023/08/05/VvOdQjlSz17bTKn.jpg"
+cover: https://s2.loli.net/2023/08/05/VvOdQjlSz17bTKn.jpg
 ---
 
 # RNN Learning
