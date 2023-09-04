@@ -3,7 +3,7 @@ title: GPT-1 -2 -3 Paper Note
 date: 2023-08-24 16:41
 tags: Deep Learning
 description: Click in for more details
-cover: "https://s2.loli.net/2023/09/04/SHyuWOiVfYrJUob.jpg"
+cover: "https://s2.loli.net/2023/09/04/CFwcESsWPNmj4QD.jpg"
 ---
 
 
