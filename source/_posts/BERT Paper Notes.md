@@ -3,7 +3,7 @@ title: BERT Paper Notes
 date: 2023-08-18 17:02
 tags: Deep Learning
 description: Click in for more details
-cover: "https://s2.loli.net/2023/09/04/nvIdMg8F91rcATO.jpg"
+cover: "https://s2.loli.net/2023/09/04/LswhtBU4uEFaQz3.jpg"
 ---
 
 
