@@ -6,7 +6,6 @@ description: Click in for more details
 cover: "https://s2.loli.net/2023/09/04/g5Bmel6YRaDLHCI.jpg"
 ---
 
-# Diffusion Model (II)
 
 
 This article is the second part about the diffusion model. In this article, we will show the mathematical principles displayed in the original paper DDPM. We will go through its algorithms, formula deductions and mention several modifications in the realistic model that contrary to our previous layout.
