@@ -1,5 +1,5 @@
 ---
-title: Paper Review: Towards Federated Learning At Scale - a System Design
+title: "Paper Review: Towards Federated Learning At Scale - a System Design"
 date: 2023-09-16 22:42
 tags: [Paper Review, Federated Learning]
 description: Click in for more details
